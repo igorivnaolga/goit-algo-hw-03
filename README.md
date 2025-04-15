@@ -31,3 +31,7 @@ The file should then be copied into the corresponding subdirectory.
 
 4. Exception handling
    The code should handle exceptions correctly, such as access errors to files or directories.
+
+# Task 2
+
+Write a Python program that uses recursion to generate the Koch snowflake fractal, with the requirement that the user should be able to specify the recursion level
